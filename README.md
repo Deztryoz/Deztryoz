@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="./assets/Banner.jpg" width="100%" alt="DEZTRYOZ Banner">
+  <img src="https://raw.githubusercontent.com/Deztryoz/Deztryoz/main/assets/Banner.png" width="100%" alt="DEZTRYOZ Banner">
 </p>
+
 
 ---
 
