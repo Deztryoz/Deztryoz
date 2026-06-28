@@ -43,6 +43,8 @@ Access Granted.
 █████████████████████████████ 100%
 ```
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ff41,100:001100&height=2&section=footer"/>
+
 ---
 
 # > ABOUT_ME
