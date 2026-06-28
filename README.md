@@ -1,18 +1,6 @@
-
-<div align="center">
-
-<img src="./assets/banner.png" width="100%" alt="DEZTRYOZ Banner">
-
-</div>
-
-
-<div align="center">
-
-<img src="assets/banner.gif" width="100%">
-
-# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=ACCESS+GRANTED...;WELCOME+TO+DEZTRYOZ;SYSTEM+ONLINE;BUILDING+THE+FUTURE" />
-
-![](https://komarev.com/ghpvc/?username=Deztryoz&color=00ff41&style=for-the-badge)
+<p align="center">
+  <img src="./assets/banner.jpg" width="100%" alt="DEZTRYOZ Banner">
+</p>
 
 ---
 
