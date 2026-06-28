@@ -1,63 +1,205 @@
+
+██████╗ ███████╗███████╗████████╗██████╗ ██╗   ██╗ ██████╗ ███████╗
+██╔══██╗██╔════╝╚══███╔╝╚══██╔══╝██╔══██╗╚██╗ ██╔╝██╔═══██╗╚══███╔╝
+██║  ██║█████╗    ███╔╝    ██║   ██████╔╝ ╚████╔╝ ██║   ██║  ███╔╝
+██║  ██║██╔══╝   ███╔╝     ██║   ██╔══██╗  ╚██╔╝  ██║   ██║ ███╔╝
+██████╔╝███████╗███████╗   ██║   ██║  ██║   ██║   ╚██████╔╝███████╗
+╚═════╝ ╚══════╝╚══════╝   ╚═╝   ╚═╝  ╚═╝   ╚═╝    ╚═════╝ ╚══════╝
+
+
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/v3/api/gradient?text=DEZTRYOZ&color=0:0f0f1e,100:00ff9d&height=280&section=header&fontSize=90&fontColor=ffffff&type=wave&animation=twinkling" width="100%" alt="banner"/>
-  
-  <h2>Security Researcher & Full-Stack Engineer</h2>
-  <p><strong>Breaking things responsibly • Building secure & scalable systems</strong></p>
-  
-  <img src="https://komarev.com/ghpvc/?username=Deztryoz&label=Profile%20Views&color=00ff9d&style=for-the-badge" alt="views"/>
+
+<img src="assets/banner.gif" width="100%">
+
+# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=ACCESS+GRANTED...;WELCOME+TO+DEZTRYOZ;SYSTEM+ONLINE;BUILDING+THE+FUTURE" />
+
+![](https://komarev.com/ghpvc/?username=Deztryoz&color=00ff41&style=for-the-badge)
+
 </div>
 
 ---
 
-### 🛠️ Tech Stack
+# > INITIALIZING...
+
+```console
+root@deztryoz:~#
+
+Loading modules...
+Injecting code...
+Connecting to GitHub...
+Checking exploits...
+Loading projects...
+Access Granted.
+
+█████████████████████████████ 100%
+```
+
+---
+
+# > ABOUT_ME
+
+```bash
+Name      :: DEZTRYOZ
+
+Role      :: Developer
+Status    :: ONLINE
+Location  :: Earth
+Focus     :: Python • Hacking • Cybersecurity • Automation
+Mission   :: Build. Learn. Break. Improve.
+
+```
+
+---
+
+# > SYSTEM_INFO
+
+```bash
+root@deztryoz:~$ neofetch
+
+
+             .-/+oossssoo+/-.               
+         `:+ssssssssssssssssss+:`           
+       -+ssssssssssssssssssyyssss+-         
+     .ossssssssssssssssssdMMMNysssso.       
+    /ssssssssssshdmmNNmmyNMMMMhssssss/      
+   +ssssssssshmydMMMMMMMNddddyssssssss+     
+  /sssssssshNMMMyhhyyyyhmNMMMNhssssssss/    
+ .sssssssssdMMMNhsssssssssshNMMMdssssssss.  
+ +sssshhhyNMMNyssssssssssssyNMMMysssssss+   
+ ossyNMMMNyMMhsssssssssssssshmmmhssssssso   
+ ossyNMMMNyMMhssssssssssssssssssssssssso    
+ +sssshhhyNMMNyssssssssssssyNMMMysssssss+   
+ .sssssssssdMMMNhsssssssssshNMMMdssssssss.  
+  /sssssssshNMMMyhhyyyyhmNMMMNhssssssss/    
+   +ssssssssshmydMMMMMMMNddddyssssssss+     
+    /ssssssssssshdmmNNmmyNMMMMhssssss/      
+     .ossssssssssssssssssdMMMNysssso.       
+       -+ssssssssssssssssssyyssss+-         
+         `:+ssssssssssssssssss+:`           
+             .-/+oossssoo+/-.               
+
+OS          :: Linux
+Kernel      :: hacker-mode
+Editor      :: VS Code
+Terminal    :: zsh
+Status      :: ONLINE
+Mission     :: CREATE IMPACT
+```
+
+---
+
+# > TECH_STACK
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
+
+<img src="https://skillicons.dev/icons?i=python,js,ts,nodejs,cpp,java,go,rust,bash,linux,docker,git,mongodb,mysql,postgres,redis,html,css,react,nextjs,vscode,github&perline=11"/>
+
 </div>
 
 ---
 
-### 🔥 Featured Projects
-
-<table align="center">
-  <tr>
-    <td width="50%" align="center">
-      <h3>Project 1</h3>
-      <p>Short description of your best project...</p>
-      <a href="https://github.com/Deztryoz/your-project">→ View Project</a>
-    </td>
-    <td width="50%" align="center">
-      <h3>Project 2</h3>
-      <p>Short description of your second project...</p>
-      <a href="https://github.com/Deztryoz/your-project2">→ View Project</a>
-    </td>
-  </tr>
-</table>
-
----
-
-### 📊 GitHub Stats
+# > GITHUB_STATS
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Deztryoz&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="195px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deztryoz&layout=compact&theme=tokyonight&hide_border=true" height="195px"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=DEZTRYOZ&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
+
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=DEZTRYOZ&theme=chartreuse-dark&hide_border=true"/>
+
+<img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=DEZTRYOZ&theme=chartreuse-dark"/>
+
 </div>
 
 ---
 
-### 🌐 Connect with me
+# > FEATURED_PROJECTS
+
+```text
+█████████████████████████████████████████████████████████
+
+► PhantomAPI
+    ├── Fast REST API
+    ├── TypeScript
+    └── Status :: Stable
+
+► ZeroDay Labs
+    ├── Cybersecurity Experiments
+    ├── Python
+    └── Status :: Active
+
+► Obsidian Bot
+    ├── Discord Framework
+    ├── Python
+    └── Status :: Development
+
+█████████████████████████████████████████████████████████
+```
+
+---
+
+# > CURRENTLY_WORKING_ON
+
+```yaml
+- AI Projects
+- Cybersecurity
+- Reverse Engineering
+- Automation
+- APIs
+- Web Applications
+- Linux
+```
+
+---
+
+# > CONNECT
 
 <div align="center">
-  <a href="https://twitter.com/Deztryoz"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
-  <a href="https://linkedin.com/in/Deztryoz"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+
+[![Discord](https://img.shields.io/badge/Discord-00ff41?style=for-the-badge&logo=discord&logoColor=black)](https://discord.gg/)
+[![GitHub](https://img.shields.io/badge/GitHub-00ff41?style=for-the-badge&logo=github&logoColor=black)](https://github.com/DEZTRYOZ)
+[![Email](https://img.shields.io/badge/Email-00ff41?style=for-the-badge&logo=gmail&logoColor=black)](mailto:you@example.com)
+
 </div>
 
-<br>
+---
+
+# > TERMINAL
+
+```bash
+root@deztryoz:~$
+
+while(true){
+
+   learn();
+
+   build();
+
+   improve();
+
+   repeat();
+
+}
+```
+
+---
+
 <div align="center">
-  <i>Made with ☕ and a lot of curiosity</i>
+
+## SYSTEM STATUS
+
+```diff
++ ACCESS GRANTED
+
++ USER VERIFIED
+
++ SYSTEM ONLINE
+
++ BUILDING SOMETHING LEGENDARY
+```
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+<h1>STAY HUNGRY • STAY FOOLISH • CODE • BUILD • REPEAT</h1>
+
 </div>
