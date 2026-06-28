@@ -49,6 +49,8 @@ Location  :: Earth
 Focus     :: Python • Hacking • Cybersecurity • Automation • Developer
 Mission   :: Build. Learn. Destroy. Improve.
 
+
+
 ```
 ## 💻 Featured Repositories
 
@@ -67,6 +69,8 @@ Mission   :: Build. Learn. Destroy. Improve.
 </a>
 
 </p>
+
+
 ---
 
 # > SYSTEM_INFO
