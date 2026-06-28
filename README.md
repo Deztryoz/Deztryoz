@@ -46,11 +46,27 @@ Name      :: DEZTRYOZ
 Role      :: Developer
 Status    :: ONLINE
 Location  :: Earth
-Focus     :: Python • Hacking • Cybersecurity • Automation
-Mission   :: Build. Learn. Break. Improve.
+Focus     :: Python • Hacking • Cybersecurity • Automation • Developer
+Mission   :: Build. Learn. Destroy. Improve.
 
 ```
+## 💻 Featured Repositories
 
+<p align="center">
+
+<a href="https://github.com/hashcat/hashcat">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=hashcat&repo=hashcat&theme=chartreuse-dark&hide_border=true"/>
+</a>
+
+<a href="https://github.com/hak5/usbrubberducky-payloads">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=hak5&repo=usbrubberducky-payloads&theme=chartreuse-dark&hide_border=true"/>
+</a>
+
+<a href="https://github.com/Deztryoz/Deztryoz">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Deztryoz&repo=Deztryoz&theme=chartreuse-dark&hide_border=true"/>
+</a>
+
+</p>
 ---
 
 # > SYSTEM_INFO
@@ -81,7 +97,7 @@ root@deztryoz:~$ neofetch
              .-/+oossssoo+/-.               
 
 OS          :: Linux
-Kernel      :: hacker-mode
+Kernel      :: hacker mode
 Editor      :: VS Code
 Terminal    :: zsh
 Status      :: ONLINE
@@ -148,10 +164,12 @@ Mission     :: CREATE IMPACT
 - AI Projects
 - Cybersecurity
 - Reverse Engineering
-- Automation
+- Exploitation
 - APIs
 - Web Applications
-- Linux
+- Linux Systems
+- CTF
+- RF tools
 ```
 
 ---
