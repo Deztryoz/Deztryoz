@@ -174,6 +174,11 @@ Mission     :: CREATE IMPACT
 
 ---
 
+<img src="assets/matrix.gif" width="100%">
+
+
+---
+
 # > TERMINAL
 
 ```bash
