@@ -1,13 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/v3/api/gradient?text=DEZTRYOZ&color=0:0f0f1e,100:00ff9d&height=260&section=header&fontSize=88&fontColor=ffffff&type=wave&animation=twinkling" alt="header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/v3/api/gradient?text=DEZTRYOZ&color=0:0f0f1e,100:00ff9d&height=280&section=header&fontSize=90&fontColor=ffffff&type=wave&animation=twinkling" width="100%" alt="banner"/>
   
   <h2>Security Researcher & Full-Stack Engineer</h2>
+  <p><strong>Breaking things responsibly • Building secure & scalable systems</strong></p>
   
-  <p>
-    <strong>Breaking things responsibly • Building secure & scalable systems</strong>
-  </p>
-
-  <img src="https://komarev.com/ghpvc/?username=Deztryoz&label=Profile%20Views&color=00ff9d&style=flat-square" alt="views"/>
+  <img src="https://komarev.com/ghpvc/?username=Deztryoz&label=Profile%20Views&color=00ff9d&style=for-the-badge" alt="views"/>
 </div>
 
 ---
@@ -27,28 +24,28 @@
 
 ### 🔥 Featured Projects
 
-<table align="center" width="100%">
+<table align="center">
   <tr>
     <td width="50%" align="center">
-      <strong>Project 1</strong><br>
-      Short description of your project...<br><br>
-      <a href="https://github.com/Deztryoz/project1">→ View Project</a>
+      <h3>Project 1</h3>
+      <p>Short description of your best project...</p>
+      <a href="https://github.com/Deztryoz/your-project">→ View Project</a>
     </td>
     <td width="50%" align="center">
-      <strong>Project 2</strong><br>
-      Short description of your project...<br><br>
-      <a href="https://github.com/Deztryoz/project2">→ View Project</a>
+      <h3>Project 2</h3>
+      <p>Short description of your second project...</p>
+      <a href="https://github.com/Deztryoz/your-project2">→ View Project</a>
     </td>
   </tr>
 </table>
 
 ---
 
-### 📊 Stats
+### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Deztryoz&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" height="195px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deztryoz&layout=compact&theme=radical&hide_border=true" height="195px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Deztryoz&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="195px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deztryoz&layout=compact&theme=tokyonight&hide_border=true" height="195px"/>
 </div>
 
 ---
@@ -61,7 +58,6 @@
 </div>
 
 <br>
-
 <div align="center">
   <i>Made with ☕ and a lot of curiosity</i>
 </div>
