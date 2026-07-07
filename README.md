@@ -61,8 +61,6 @@ Mission   :: Build. Learn. Destroy. Improve.
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=hashcat&repo=hashcat&theme=chartreuse-dark&hide_border=true"/>
 </a>
 
-<p align="center">
-
 <a href="https://github.com/hak5/wifi-pineapple">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=hak5&repo=wifi-pineapple&theme=chartreuse-dark&hide_border=true"/>
 </a>
@@ -72,11 +70,6 @@ Mission   :: Build. Learn. Destroy. Improve.
 </a>
 
 </p>
-
-
-
-
-
 
 ---
 
