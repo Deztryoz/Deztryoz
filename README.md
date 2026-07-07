@@ -58,15 +58,15 @@ Mission   :: Build. Learn. Destroy. Improve.
 <p align="center">
 
 <a href="https://github.com/hashcat/hashcat">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=hashcat&repo=hashcat&theme=chartreuse-dark&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hashcat&repo=hashcat&theme=chartreuse-dark&hide_border=true" />
 </a>
 
-<a href="https://github.com/hak5/wifi-pineapple">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=hak5&repo=wifi-pineapple&theme=chartreuse-dark&hide_border=true"/>
+<a href="https://github.com/hak5/pineapple-modules">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hak5&repo=pineapple-modules&theme=chartreuse-dark&hide_border=true" />
 </a>
 
 <a href="https://github.com/DEIN-USERNAME/DEIN-REPO">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=DEIN-USERNAME&repo=DEIN-REPO&theme=chartreuse-dark&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DEIN-USERNAME&repo=DEIN-REPO&theme=chartreuse-dark&hide_border=true" />
 </a>
 
 </p>
