@@ -74,8 +74,6 @@ Mission   :: Build. Learn. Destroy. Improve.
 </p>
 
 
-</p>
-
 
 
 
