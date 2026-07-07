@@ -61,9 +61,6 @@ Mission   :: Build. Learn. Destroy. Improve.
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=hashcat&repo=hashcat&theme=chartreuse-dark&hide_border=true" />
 </a>
 
-<a href="https://github.com/hak5/pineapple-modules">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hak5&repo=pineapple-modules&theme=chartreuse-dark&hide_border=true" />
-</a>
 
 </p>
 
