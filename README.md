@@ -61,7 +61,22 @@ Mission   :: Build. Learn. Destroy. Improve.
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=hashcat&repo=hashcat&theme=chartreuse-dark&hide_border=true"/>
 </a>
 
+<p align="center">
+
+<a href="https://github.com/DEIN-USERNAME/kali">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=DEIN-USERNAME&repo=kali&theme=chartreuse-dark&hide_border=true"/>
+</a>
+
+<a href="https://github.com/DEIN-USERNAME/gitlab">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=DEIN-USERNAME&repo=gitlab&theme=chartreuse-dark&hide_border=true"/>
+</a>
+
 </p>
+
+
+</p>
+
+
 
 
 ---
