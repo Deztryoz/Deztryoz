@@ -65,10 +65,6 @@ Mission   :: Build. Learn. Destroy. Improve.
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=hak5&repo=pineapple-modules&theme=chartreuse-dark&hide_border=true" />
 </a>
 
-<a href="https://github.com/DEIN-USERNAME/DEIN-REPO">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DEIN-USERNAME&repo=DEIN-REPO&theme=chartreuse-dark&hide_border=true" />
-</a>
-
 </p>
 
 ---
