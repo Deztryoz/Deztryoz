@@ -52,14 +52,6 @@ Mission   :: Build. Learn. Destroy. Improve.
 ```
 ## 💻 Featured Repositories
 
-<p align="center">
-
-<a href="https://github.com/hashcat/hashcat">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hashcat&repo=hashcat&theme=chartreuse-dark&hide_border=true" />
-</a>
-
-
-</p>
 
 
 ---
