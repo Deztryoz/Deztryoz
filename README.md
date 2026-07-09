@@ -5,9 +5,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Deztryoz/Deztryoz/main/assets/HTB.png" width="100%" alt="DEZTRYOZ Banner">
-</p>
 
 ---
 
