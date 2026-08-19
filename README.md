@@ -105,9 +105,6 @@ Mission     :: CREATE IMPACT
 
 # > GITHUB_STATS
 
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=DEZTRYOZ&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
-
 <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=DEZTRYOZ&theme=chartreuse-dark&hide_border=true"/>
 
 <img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=DEZTRYOZ&theme=chartreuse-dark"/>
