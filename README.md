@@ -106,7 +106,7 @@ Mission     :: CREATE IMPACT
 # > GITHUB_STATS
 
 
-<img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=DEZTRYOZ&theme=chartreuse-dark"/>
+<img src="https://streak-stats.demolab.com/?user=DEZTRYOZ&theme=chartreuse-dark&hide_border=true" />
 
 </div>
 
