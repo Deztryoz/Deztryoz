@@ -2,20 +2,18 @@
   <img src="https://raw.githubusercontent.com/Deztryoz/Deztryoz/main/assets/banner2.gif" width="100%" alt="DEZTRYOZ Banner">
 </p>
 
-
 ---
 
+```text
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+▓  ACCESS GRANTED            ▓
+▓  SYSTEM ONLINE             ▓
+▓  USER : DEZTRYOZ           ▓
+▓  LEVEL: ROOT               ▓
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+```
 
 ---
-
-          ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-          ▓  ACCESS GRANTED        ▓
-          ▓  SYSTEM ONLINE         ▓
-          ▓  USER : DEZTRYOZ       ▓
-          ▓  LEVEL: ROOT           ▓
-          ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-
-          ---
 
 # > INITIALIZING...
 
@@ -32,7 +30,7 @@ Access Granted.
 █████████████████████████████ 100%
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ff41,100:001100&height=2&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ff41,100:001100&height=2&section=footer" width="100%" alt="Divider">
 
 ---
 
@@ -46,13 +44,7 @@ Status    :: ONLINE
 Location  :: Earth
 Focus     :: Python • Hacking • Cybersecurity • Automation • Developer
 Mission   :: Build. Learn. Destroy. Improve.
-
-
-
 ```
-## 💻 Featured Repositories
-
-
 
 ---
 
@@ -97,7 +89,7 @@ Mission     :: CREATE IMPACT
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,js,ts,nodejs,cpp,java,go,rust,bash,linux,docker,git,mongodb,mysql,postgres,redis,html,css,react,nextjs,vscode,github&perline=11"/>
+<img src="https://skillicons.dev/icons?i=python,js,ts,nodejs,cpp,java,go,rust,bash,linux,docker,git,mongodb,mysql,postgres,redis,html,css,react,nextjs,vscode,github&perline=11" alt="Tech Stack">
 
 </div>
 
@@ -105,13 +97,15 @@ Mission     :: CREATE IMPACT
 
 # > GITHUB_STATS
 
+<div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=DEZTRYOZ&theme=chartreuse-dark&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=Deztryoz&theme=chartreuse-dark&hide_border=true" alt="GitHub Streak">
+
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Deztryoz&theme=chartreuse-dark&hide_border=true" width="100%" alt="GitHub Activity Graph">
 
 </div>
-
----
-
 
 ---
 
@@ -161,13 +155,13 @@ Mission     :: CREATE IMPACT
 <div align="center">
 
 [![Discord](https://img.shields.io/badge/Discord-00ff41?style=for-the-badge&logo=discord&logoColor=black)](https://discord.gg/)
-[![GitHub](https://img.shields.io/badge/GitHub-00ff41?style=for-the-badge&logo=github&logoColor=black)](https://github.com/DEZTRYOZ)
-[![Email](https://img.shields.io/badge/Email-00ff41?style=for-the-badge&logo=gmail&logoColor=black)](mailto:you@example.com)
+[![GitHub](https://img.shields.io/badge/GitHub-00ff41?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Deztryoz)
 
 </div>
 
 ---
 
+```text
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
          THINK • BUILD • EVOLVE
@@ -175,7 +169,7 @@ Mission     :: CREATE IMPACT
               — DEZTRYOZ —
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
+```
 
 ---
 
@@ -213,17 +207,30 @@ while(true){
 + BUILDING SOMETHING LEGENDARY
 ```
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-
 <h1>STAY HUNGRY • STAY FOOLISH • CODE • BUILD • REPEAT</h1>
 
 </div>
 
 ---
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=28&duration=2500&pause=1000&color=00FF41&center=true&vCenter=true&width=900&lines=WELCOME+TO+DEZTRYOZ;ACCESS+GRANTED;SYSTEM+ONLINE;BUILDING+THE+FUTURE;CODE+%7C+CREATE+%7C+CONQUER" />
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=28&duration=2500&pause=1000&color=00FF41&center=true&vCenter=true&width=900&lines=WELCOME+TO+DEZTRYOZ;ACCESS+GRANTED;SYSTEM+ONLINE;BUILDING+THE+FUTURE;CODE+%7C+CREATE+%7C+CONQUER" alt="Typing SVG">
+
+</div>
 
 ---
+
+# > GITLAB_STATS
+
+<div align="center">
+
+[![GitLab Contributor Stats](https://contributors.gitlab.com/users/Deztryoz/banner.svg)](https://contributors.gitlab.com/users/Deztryoz)
+
+</div>
+
+
+
 ```text
 ██████╗ ███████╗███████╗████████╗██████╗ ██╗   ██╗ ██████╗ ███████╗
 ██╔══██╗██╔════╝╚══███╔╝╚══██╔══╝██╔══██╗╚██╗ ██╔╝██╔═══██╗╚══███╔╝
@@ -232,6 +239,3 @@ while(true){
 ██████╔╝███████╗███████╗   ██║   ██║  ██║   ██║   ╚██████╔╝███████╗
 ╚═════╝ ╚══════╝╚══════╝   ╚═╝   ╚═╝  ╚═╝   ╚═╝    ╚═════╝ ╚══════╝
 ```
-
-
-
