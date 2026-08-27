@@ -221,11 +221,11 @@ while(true){
 
 ---
 
-# > GITLAB_STATS
+# > GITLAB
 
 <div align="center">
 
-[![GitLab Contributor Stats](https://contributors.gitlab.com/users/Deztryoz/banner.svg)](https://contributors.gitlab.com/users/Deztryoz)
+[![GitLab](https://img.shields.io/badge/GitLab-Deztryoz-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/Deztryoz)
 
 </div>
 
